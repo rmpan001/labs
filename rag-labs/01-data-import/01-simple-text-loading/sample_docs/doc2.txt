@@ -1,0 +1,3 @@
+Vector databases store high-dimensional embeddings for fast similarity search.
+Popular vector stores include ChromaDB, FAISS, Pinecone, and Weaviate.
+This is document 2 of our RAG lab sample dataset.

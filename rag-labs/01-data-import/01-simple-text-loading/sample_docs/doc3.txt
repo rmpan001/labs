@@ -1,0 +1,3 @@
+LangChain provides abstractions for Document Loaders, Text Splitters, and Chains.
+DirectoryLoader allows loading multiple documents from a directory cleanly.
+This is document 3 of our RAG lab sample dataset.
