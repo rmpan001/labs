@@ -5,3 +5,6 @@ documents = dir_reader.load_data()
 
 print(f'number of documents: {len(documents)}')
 
+## print one of the document objects to see its overall structure. Provides more metadata compared to Langchain including file path,
+# file type, file size, creation date, modification date. 
+print(documents[1])
